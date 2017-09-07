@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/bphonics background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://xarthas.github.io/b.phonicsband/
+url:                https://xarthas.github.io/b.phonicsband
 
 # Jekyll
 permalink:          /:title/
