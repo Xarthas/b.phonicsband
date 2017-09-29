@@ -6,6 +6,6 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>More to come...
-</b></a>BIO and stuff</center>
+<center><b>More to come...
+</b>BIO and stuff</center>
 
