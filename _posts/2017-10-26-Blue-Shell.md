@@ -4,7 +4,7 @@ title: "Blue Shell"
 date: 2017-10-26
 excerpt: "Images"
 tags: [gig, images]
-comments: true
+comments: false
 ---
 
 ### Blue Shell, 26.10.2017
