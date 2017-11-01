@@ -11,8 +11,8 @@ comments: true
 
 {% highlight html %}
 <figure class="half">
-    <a href="https://github.com/Xarthas/b.phonicsband/blob/gh-pages/assets/img/Blue%20shell%201.jpg"><img src="https://github.com/Xarthas/b.phonicsband/blob/gh-pages/assets/img/Blue%20shell%201.jpg"></a>
-    <a href="https://github.com/Xarthas/b.phonicsband/blob/gh-pages/assets/img/blue%20shell%203.jpg"><img src="https://github.com/Xarthas/b.phonicsband/blob/gh-pages/assets/img/blue%20shell%203.jpg"></a>
+    <a href="/img/blue-shell-1.jpg"><img src="/img/blue-shell-1.jpg"></a>
+    <a href="/img/blue-shell-3.jpg"><img src="/img/blue-shell-3.jpg"></a>
     <figcaption>Live at the Blue Shell</figcaption>
 </figure>
 {% endhighlight %}
