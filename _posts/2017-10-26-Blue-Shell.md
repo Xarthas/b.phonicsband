@@ -2,8 +2,8 @@
 layout: post
 title: "Blue Shell"
 date: 2017-10-26
-excerpt: "Examples and code for displaying images in posts."
-tags: [gig, images, test]
+excerpt: "Images"
+tags: [gig, images]
 comments: true
 ---
 
