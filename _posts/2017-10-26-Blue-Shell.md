@@ -10,8 +10,8 @@ comments: true
 ### Blue Shell, 26.10.2017
 
 <figure class="half">
-    <a href="/img/blue-shell-1.jpg"><img src="/img/blue-shell-1.jpg"></a>
-    <a href="/img/blue-shell-3.jpg"><img src="/img/blue-shell-3.jpg"></a>
+    <a href="https://github.com/Xarthas/b.phonicsband/blob/gh-pages/assets/img/blue-shell-1.jpg"><img src="https://github.com/Xarthas/b.phonicsband/blob/gh-pages/assets/img/blue-shell-1.jpg"></a>
+    <a href="https://github.com/Xarthas/b.phonicsband/blob/gh-pages/assets/img/blue-shell-3.jpg"><img src="https://github.com/Xarthas/b.phonicsband/blob/gh-pages/assets/img/blue-shell-3.jpg"></a>
     <figcaption>Live at the Blue Shell</figcaption>
 </figure>
 
