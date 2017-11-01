@@ -9,10 +9,9 @@ comments: true
 
 ### Blue Shell, 26.10.2017
 
-{% highlight html %}
 <figure class="half">
     <a href="/img/blue-shell-1.jpg"><img src="/img/blue-shell-1.jpg"></a>
     <a href="/img/blue-shell-3.jpg"><img src="/img/blue-shell-3.jpg"></a>
     <figcaption>Live at the Blue Shell</figcaption>
 </figure>
-{% endhighlight %}
+
