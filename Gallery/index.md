@@ -1,6 +1,6 @@
 ---
-layout: post-list
-title: All Posts
+layout: post
+title: Gallery
 excerpt: "A List of Posts"
 comments: false
 ---
