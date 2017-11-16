@@ -11,7 +11,7 @@ Musikband<br />Platenstr. 12<br />50825 Köln</p>
 <p>Telefon: 017232587851<br />
 E-Mail: <a href="mailto:Niklas.scharge@gmail.com">Niklas.scharge@gmail.com</a><br />
 </p>
-<p><strong>Umsatzsteuer-ID: </strong><br />Umsatzsteuer-Identifikationsnummer nach §27a Umsatzsteuergesetz:<br />63930417829</p>Berufsbezeichnung: Musiker/Band<br />Kammer: <br />Berufsbezeichnung verliehen im Land: <br />Regelungen: <br />Link: <a href="http://">http://</a><br /><br />Schlichtungsstelle: <br />Sonstiges: <br /><br /><br /><br />
+
 <h2>Disclaimer – rechtliche Hinweise</h2>
 § 1 Warnhinweis zu Inhalten<br />
 Die kostenlosen und frei zugänglichen Inhalte dieser Webseite wurden mit größtmöglicher Sorgfalt erstellt. Der Anbieter dieser Webseite übernimmt jedoch keine Gewähr für die Richtigkeit und Aktualität der bereitgestellten kostenlosen und frei zugänglichen journalistischen Ratgeber und Nachrichten. Namentlich gekennzeichnete Beiträge geben die Meinung des jeweiligen Autors und nicht immer die Meinung des Anbieters wieder. Allein durch den Aufruf der kostenlosen und frei zugänglichen Inhalte kommt keinerlei Vertragsverhältnis zwischen dem Nutzer und dem Anbieter zustande, insoweit fehlt es am Rechtsbindungswillen des Anbieters.<br />
