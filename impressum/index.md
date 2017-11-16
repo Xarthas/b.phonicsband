@@ -7,7 +7,7 @@ comments: false
 
 <h2>Impressum</h2>
 <p>Niklas Scharge<br />
-Musikband<br />Platenstr.<br />12<br />50825 Köln</p>
+Musikband<br />Platenstr. 12<br />50825 Köln</p>
 <p>Telefon: 017232587851<br />
 E-Mail: <a href="mailto:Niklas.scharge@gmail.com">Niklas.scharge@gmail.com</a><br />
 </p>
