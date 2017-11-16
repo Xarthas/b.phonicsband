@@ -6,7 +6,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/bphonics_logo_RGB.jpg'
 background:         'https://xarthas.github.io/b.phonicsband/assets/img/bphonics-background.jpg'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://xarthas.github.io/b.phonicsband
 
