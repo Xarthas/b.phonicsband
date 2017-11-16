@@ -9,7 +9,7 @@ comments: false
 <center><b>Biographie
 </b></center>
 
-##b.phonics
+###b.phonics
 
 b.phonics sind eine aus Köln stammende Band die mit ihren eigenen Songs und bekannten Blues-Covern die Herzen des Publikums erobern möchten. Der Sound besteht aus einer Mischung von Blues und Country, und zusätzlich einer guten Portion Rock. Stark beeinflusst wurden b.phonics von bekannten Größen wie Jimmy Vaughn, Steely Dan, Eric Clapton, Gary Clark jr., Tedeschi Trucks Band und Buddy Guy.
 
