@@ -4,7 +4,7 @@ bio:                ''
 description:        "Blues, Songs and Country"
 reading_time:       true
 words_per_minute:   200
-logo:               'https://github.com/Xarthas/b.phonicsband/blob/gh-pages/assets/img/bphonics_logo_RGB.jpg'
+logo:               'assets/img/bphonics_logo_RGB.jpg'
 background:         'https://xarthas.github.io/b.phonicsband/assets/img/bphonics-background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
